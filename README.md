@@ -2,4 +2,4 @@
 
 |Day #  | Questions | C Soltuions|C++ Solution|
 |-------|-----------| ----------------- |-----------------|
-|1|[First Bad Version](https://leetcode.com/problems/valid-mountain-array/)|[Solution](Code.c)|[Solution](validMountainArray.cpp)|
+|1|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](Code.c)|[Solution](validMountainArray.cpp)|
