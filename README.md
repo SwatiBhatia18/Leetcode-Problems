@@ -2,5 +2,5 @@
 
 |Day #  | Questions | C Soltuions|C++ Solution|
 |-------|-----------| ----------------- |-----------------|
-|1|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](Code.c)|[Solution](validMountainArray.cpp)|
-|2|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)||[Solution](removeduplicate2.cpp)|
+|1|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](validMountainArray.c)|[Solution](validMountainArray.cpp)|
+|2|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Solution](removeduplicate2.c)|[Solution](removeduplicate2.cpp)|
